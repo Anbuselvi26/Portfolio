@@ -1,48 +1,124 @@
 
+# 🌐 Anbuselvi S — Personal Portfolio
 
-**Use your preferred IDE**
+A modern, responsive, and elegant personal portfolio website built using **Vite**, **React**, **TypeScript**, **Tailwind CSS**, and **shadcn-ui** — designed and scaffolded with **Lovable AI**.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+This portfolio showcases my work, skills, experience, and blog articles in a clean and minimal UI with smooth animations.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🚀 Features
+
+* ⚡ **Built with Vite** for lightning-fast development
+* 🎨 **Responsive UI** using Tailwind CSS
+* 🧩 **Reusable UI components** powered by shadcn/ui
+* 🌙 **Lightweight animations** using Framer Motion
+* 🧭 Smooth section transitions & navigation
+* 📄 Multiple sections:
+
+  * Hero (with profile image)
+  * About
+  * Projects
+  * Experience
+  * Blog
+  * Contact
+  * Footer
+* 🧰 TypeScript for clean, safe code
+* 🔧 Easy to maintain and fully customizable
+
+---
+
+## 🛠️ Tech Stack
+
+* **Vite**
+* **React**
+* **TypeScript**
+* **Tailwind CSS**
+* **shadcn/ui**
+* **Radix UI**
+* **Framer Motion**
+* **React Router**
+* **Lovable AI**
+
+---
+
+## 📦 Installation & Setup
+
+Make sure you have **Node.js** and **npm** installed.
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Step 1: Clone this repository
+git clone https://github.com/YOUR-USERNAME/portfolio.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Step 2: Navigate into the project folder
+cd portfolio
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Your project will now be running at:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+👉 **[http://localhost:5173](http://localhost:5173)** (or the port Vite shows)
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🔧 Build for Production
 
-## What technologies are used for this project?
+```sh
+npm run build
+```
 
-This project is built with:
+Preview the production build:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+```sh
+npm run preview
+```
 
+---
+
+## 📁 Project Structure
+
+```
+src/
+│── components/
+│── pages/
+│── hooks/
+│── lib/
+│── styles/
+│── App.tsx
+│── main.tsx
+public/
+index.html
+```
+
+---
+
+## 🌍 Deployment
+
+This project can be deployed easily on:
+
+* **Vercel** (recommended for Vite)
+* **Netlify**
+* **GitHub Pages**
+
+---
+
+## ✨ Credits
+
+* Designed & scaffolded using **Lovable AI**
+* UI powered by **shadcn/ui** + **Radix**
+* Icons, animations, and layout inspired by modern dev portfolios
+
+---
+
+## 📫 Contact
+
+If you’d like to connect:
+
+* **LinkedIn:** *https://www.linkedin.com/in/anbuselvi26/*
+* **GitHub:** *https://github.com/Anbuselvi26*
+* **Email:** *anbuselvi.2603@gmail.com*
