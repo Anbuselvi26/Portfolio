@@ -7,6 +7,13 @@ This portfolio showcases my work, skills, experience, and blog articles in a cle
 
 ---
 
+## 📸 Portfolio Preview
+
+<p align="center">
+  <img src="src/assets/screenshot.png" alt="Portfolio Screenshot" width="800"/>
+</p>
+
+
 ## 🚀 Features
 
 * **Built with Vite** for fast development
