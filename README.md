@@ -9,11 +9,9 @@ This portfolio showcases my work, skills, experience, and blog articles in a cle
 
 ## 🚀 Features
 
-* ⚡ **Built with Vite** for lightning-fast development
-* 🎨 **Responsive UI** using Tailwind CSS
-* 🧩 **Reusable UI components** powered by shadcn/ui
-* 🌙 **Lightweight animations** using Framer Motion
-* 🧭 Smooth section transitions & navigation
+* **Built with Vite** for fast development
+* **Responsive UI** using Tailwind CSS
+* **Lightweight animations** using Framer Motion
 * 📄 Multiple sections:
 
   * Hero (with profile image)
